@@ -38,7 +38,7 @@ python language_detection.py -i document.txt
 - Output file generated: detection_results.txt
 - No classification reports printed
 
-## Training the model wights ## (If you want to generate models weights instead of downloading *language_dict_directory*)
+## Training the model wights ## (To generate models weights instead of downloading folder *language_dict_directory*)
 
 - Traing the model is basically creating the language_dict_directory. For details on hw this directory is created and algorithm used refer **Method_of_Language_Detection.pdf**
 
