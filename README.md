@@ -2,12 +2,12 @@
 
 
 ## Scope
-This method can identify the following natural languages: English, French, German, Spanish, Vietnamese,
+This method can identify the following natural languages: **English, French, German, Spanish, Vietnamese,
 Catalan,Welsh, Czech, Danish, Estonian, Croatian, Finnish, Hungarian, Indonesian, Italian,
 Lithuanian, Latvian, Norweignian, Netherlandish, Portuguese, Polish, Somali, Slovenian, Slovak,
 Romanian, Albanian, Swedish, Swahili, Turkish, Tagalog, Afrikaans, Arabic, Persian, Urdu,
 Hindi, Marathi, Nepali, Ukranian, Russian, Bulgarian, Macedonian, Bengali, Greek, Gujarati,
-Punjabi, Hebrew, Kannada, Malayalam, Tamil, Telugu, Thai, Chinese, Japanese, Korean. This
+Punjabi, Hebrew, Kannada, Malayalam, Tamil, Telugu, Thai, Chinese, Japanese, Korean**. This
 approach assumes languages are written in their usual scripts with most of the words are spelled correctly
 i.e. a Hindi or Arabic paragraph written in Latin script, will yield wrong prediction.
 - This method can detect 54 natural languages in text documents with an accuracy of 99.38%.
