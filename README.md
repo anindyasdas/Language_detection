@@ -17,4 +17,5 @@ i.e. a Hindi or Arabic paragraph written in Latin script, will yield wrong predi
 - Model weights are stored PICKLE format in  directory language_dict_directory
 
 - Download the model weights from [language_dict_directory](https://drive.google.com/file/d/1ILi1QYFF0RlDD19wIOToSJjmQQnDjCXU/view?usp=sharing) and extract the zip to **language_dict_directory**
+- Download [Input Data](https://drive.google.com/file/d/1vFod1VgJpOZw7H9-mHFDr4cKc5DaE1dC/view?usp=sharing)
 
