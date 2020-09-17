@@ -15,6 +15,6 @@ i.e. a Hindi or Arabic paragraph written in Latin script, will yield wrong predi
 - Documentation, Algorthm , Method discussed in :Method_of_Language_Detection.pdf 
 
 - Model weights are stored PICKLE format in  directory language_dict_directory
-`
+
 [File Name](https://drive.google.com/file/d/1ILi1QYFF0RlDD19wIOToSJjmQQnDjCXU/view?usp=sharing)
-`
+
