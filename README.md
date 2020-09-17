@@ -12,7 +12,7 @@ approach assumes languages are written in their usual scripts with most of the w
 i.e. a Hindi or Arabic paragraph written in Latin script, will yield wrong prediction.
 - This method can detect 54 natural languages in text documents with an accuracy of 99.38%.
 
-- Documentation, Algorthm , Method discussed in :Method_of_Language_Detection.pdf 
+- Documentation, Algorthm , Method discussed in : **Method_of_Language_Detection.pdf**
 ## Evaluating any Dataset on pretrained model
 - Model weights are stored PICKLE format in  directory language_dict_directory
 
@@ -37,5 +37,18 @@ python language_detection.py -i document.txt
 `
 - Output file generated: detection_results.txt
 - No classification reports printed
+
+## Training the model wights ## (If you want to generate models weights instead of downloading *language_dict_directory*)
+
+- Traing the model is basically creating the language_dict_directory. For details on hw this directory is created and algorithm used refer **Method_of_Language_Detection.pdf**
+
+- Download fasttext wordvectors from [link](https://fasttext.cc/docs/en/crawl-vectors.html) and save into a folder named as *fasttext_languages*
+run language_detection.py
+`
+python language_detection
+`
+- This will create the weight pickle files and store into *language_dict_directory*
+
+
 
 
