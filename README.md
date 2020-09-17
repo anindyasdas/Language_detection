@@ -44,6 +44,7 @@ python language_detection.py -i document.txt
 
 - Download fasttext wordvectors from [link](https://fasttext.cc/docs/en/crawl-vectors.html) and save into a folder named as *fasttext_languages*
 run language_detection.py
+
 `
 python language_detection
 `
