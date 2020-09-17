@@ -43,10 +43,10 @@ python language_detection.py -i document.txt
 - Traing the model is basically creating the language_dict_directory. For details on hw this directory is created and algorithm used refer **Method_of_Language_Detection.pdf**
 
 - Download fasttext wordvectors from [link](https://fasttext.cc/docs/en/crawl-vectors.html) and save into a folder named as *fasttext_languages*
-run language_detection.py
+run training_dictionary.py
 
 `
-python language_detection
+python training_dictionary.py
 `
 - This will create the weight pickle files and store into *language_dict_directory*
 
