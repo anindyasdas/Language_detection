@@ -1,4 +1,4 @@
-# Language_detection
+# A Machine Learning Based Approach For Detecting Languages In Documents
 
 
 ## Scope
