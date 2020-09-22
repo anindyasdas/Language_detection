@@ -52,10 +52,12 @@ python training_dictionary.py
 ## Citation
 If you are using this code in your work, please cite
 ```
-@misc{das, title={A Machine Learning Based Approach For Detecting Languages In Documents}, 
+@misc{das_2020, title={A Machine Learning Based Approach For Detecting Languages In Documents}, 
 url={https://github.com/anindyasdas/Language_detection}, 
-journal={GitHub}, 
-author={Das, Anindya S}}
+journal={Language Detection}, 
+publisher={Medium}, 
+author={Das, Anindya S}, 
+year={2020}, month={Sep}}
 ```
 
 
