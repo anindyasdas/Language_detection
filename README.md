@@ -50,12 +50,13 @@ python training_dictionary.py
 `
 - This will create the weight pickle files and store into *language_dict_directory*
 ## Citation
+```
 If you are using this code in your work, please cite
 @misc{das, title={A Machine Learning Based Approach For Detecting Languages In Documents}, 
 url={https://github.com/anindyasdas/Language_detection}, 
 journal={GitHub}, 
 author={Das, Anindya S}}
-
+```
 
 
 
